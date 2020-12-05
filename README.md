@@ -13,7 +13,7 @@ An All in One Game Hacking Tool For PUBG Mobile.
 
 [?] How To USE ?
 
-[ Linux-Termux ]
+[ Termux ]
 1. git clone https://github.com/1337Xcode/Astra
 2. cd Astra && sudo python3 Astra.py
 
