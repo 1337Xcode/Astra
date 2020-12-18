@@ -8,11 +8,14 @@ An All in One Game Hacking Tool For PUBG Mobile.
 
 [--Description--]
 
-<#> An Injector Which Uses vm_write To Inject Cheat That Does Not Require Any Kind Of Antiban Or Detection Spoof.<#/>
+<#> An Injector Which Uses vm_write Type Mechanism To Inject Cheat That Does Not Require Any Kind Of Antiban Or Detection Spoof.<#/>
 
 [?] How To USE ?
+[ First-Time ]:
+1. git clone https://github.com/1337Xcode/Astra
+2. cd Astra && bash Setup.sh && sudo python3 Astra.py
 
-[ Termux ]:
+[ Second-Time&... ]:
 1. git clone https://github.com/1337Xcode/Astra
 2. cd Astra && sudo python3 Astra.py
 
