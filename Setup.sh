@@ -1,4 +1,4 @@
-#!/#!/usr/bin/env bash
+#!/usr/bin/env bash
 echo -e " Hold On Installing Dependencies. \n This is A Crucial Part.\n\n Make Sure You Have: \n [1] Stable Internet [>50Kbps]. \n [2] Android 9-7 Device.\n [3] 32bit PUBG Application.\n [4] *ROOTED DEVICE* \n [5] Brain And Sense."
 sleep 1
 echo -e "\n\n Starting The Pkg Installation Process.\n Allow Root Access To Termux Once Toast Appears "
