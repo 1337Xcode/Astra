@@ -3,7 +3,7 @@ echo -e " Hold On Installing Dependencies. \n This is A Crucial Part.\n\n Make S
 sleep 1
 echo -e "\n\n Starting The Pkg Installation Process.\n Allow Root Access To Termux Once Toast Appears "
 sleep 1
-su -c && chmod +x * && chmod +x /module/* && chmod +x /pytransform/* && chmod +x /*/* && pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 -y && pkg install cmatrix -y && pip install --upgrade pip && pkg install tsu -y &> /dev/null
+su -c chmod +x * && su -c chmod +x /module/* && su -c chmod +x /pytransform/* && su -c chmod +x /*/* && pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 -y && pkg install cmatrix -y && pip install --upgrade pip && pkg install tsu -y &> /dev/null
 sleep 1
 echo -e "\n All Pkg Were Installed [Should Have Been].\n\n If You Face Any Issues It Means:\n [1] Your Internet Sucks.\n [2] You Are Using Android 10 Device.\n [3] You Are Using 64bit PUBG.\n [4] You Dont Know Numbers.\n [5] You Are Just Retarded. "
 sleep 1
