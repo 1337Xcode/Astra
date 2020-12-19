@@ -1,3 +1,9 @@
+▄▀█ █▀ ▀█▀ █▀█ ▄▀█ 
+█▀█ ▄█ ░█░ █▀▄ █▀█  [ v0.0.4.SeC ]
+
+
+Tutorial Video [YouTube] : COMING SOON !
+Telegram Channel: t.me/T34M3RR0Rz
 
 How To Use Astra [ Step By Step Guide ]
 
@@ -29,6 +35,62 @@ cd Astra && sudo python3 Astra.py
 
 <Step 3> Functions Guide And Description
 
+**Function [1] SeC-Spoof**
+{ Use Numbers 1/2/3 To Switch Through Functions } 
+
+*1. Activate [Before-Open]* - As Name Says You've To Use This Function Before Opening/Starting/Launching The Game. It Use A New Method Recently Found Out By Me [t.me/ERR0Rxx]. It Auto-Launches MeMInject0r After 8 Seconds.
+*2. DeActivate [End-Game]* - Again As Its Name You'll Have To Use It After You Exit/Quit/Force-Stop The Game.
+*3. Back To Menu - To Get Back To Main Menu [F-Section Menu]
+
+**Function [2] MeMInject0r**
+{ Use Numbers 1/2/3/4.../10 To Switch Through Functions } 
+
+*[1] Less Recoil* - Compensates Recoil Helping Player To Control Their Long - Mid Range Sprays. (!)-Note: Long Range Sprays [>100m] Can Cause Ban Sometimes. Always Use Sniper Rifles To Take Down Distant Enemies.
+*[2] Aimb0t* - Increases Aim Assistance Thus Helping Player in Getting Better Accuracy. Might Suck in Mid Range But Will Prove Godly in Close Range Combat.
+*[3] Magic Bullet* - Increases Damage Radius Of Opponent Just Increasing The Number Of Sucessful Shots.
+*[4] Small Crosshair* - Shrinks And Freezes Crosshair From Expanding. Its A Visual Hack.
+ *[5] Wide View* - Increases Field Of View. Its A Visual Hack.
+ *[6] Long Jump* - Increases Player's Jump Distance. (!)-Note: Can Cause A Risk Of Offline Ban Use With Caution.
+ *[7] Prone Speed* - Increase Player's Speed While Using Prone. (!)-Note: Can Cause A Risk Of Offline Ban Use With Caution.
+ *[8] No Fog* - Removes FOG Particle From The MAP. Its A Visual Hack.
+ *[9] No Grass* -  Removes GRASS Particle From The MAP. Its A Visual Hack.
+ *[10] Back To Menu* -  To Get Back To Main Menu [F-Section Menu]
+ 
+ 
+ **Function [3] Tweaks -Beta**
+ { Use Numbers 1/2/3/4.../6 To Switch Through Functions }
+ 
+ <!> Type Your Games Pkg Name When Asked To Input " Application Pkg : " . 
+ For Example:
+ > If Im Playing PUBG Global I Will Type Application Pkg Name As " Application Pkg : com.tencent.ig "
+ > If Im Playing PUBG Korea I Will Type Application Pkg Name As " Application Pkg : com.pubg.krmobile "
+ > If Im Playing PUBG Vietnam I Will Type Application Pkg Name As " Application Pkg : com.vng.pubgmobile "
+ 
+ [%]Functions Info
+ 
+*[1] Reset Guest* - To Delete Old Guest Account Info. Doing This Will Reset Your Guest Account So You Can Create A New One.
+*[2] Fix Crash* - Use This If You're Facing Repeated Game Crash Issue Even After Tring Basic Fixes.
+*[3] Deep Clean And Fix* - This Will Delete Every Piece Of Game Data Except Obb And Apk And Will Make Game Look Completely Fresh Downloaded
+*[4] Fix Plugin Detection* - Use This If You're Facing Repeated 3rd Party Ban Issue Even After Tring Basic Fixes. (!)-Note: Delete All Andlua And GameGuardian Application From Your Device And Reboot After Using This. Also Run A Virus Scan And Delete Potential Trojan Applications. 
+*[5] Fix Network Error* - Use This If You're Facing Repeated Network Error Server Didnt Respond Issue Even After Tring Basic Fixes.
+*[6] >> Main Menu <<* To Get Back To Main Menu [F-Section Menu]
+
+**Function [4] Downloads**
+
+Currently Our Project Server is Offline. (E-404)
+
+**Function [5] How-To-Use**
+Use This Function For A How To Use Guide
+
+**Function [6] Exit Menu**
+Use This Function For Exiting The Program
+
 </Step 3>
 
-Tutorial Video:
+[----(!)-Note-(!)----]
+1. Dont Forget To Exit Termux From Notification Bar After Playing Game [After Exiting PUBG] To Avoid Battery Consumption.
+2. Dont Forget To Give Super User Rights To Termux.
+3. Dont Use Tweaks Unless Necessary.
+4. Dont Blow Your Cover If You Want To Do ACE Or Conqueror.
+5. This is A Completely Free Project Still You Can Buy Me A Donut Me If You Want [#] Paypal : https://www.paypal.me/Darsh123
+
