@@ -1,1 +1,34 @@
-Wait I Will Update This Once I Upload Tutorial On My Youtube
+
+How To Use Astra [ Step By Step Guide ]
+
+<Step 1> Cloning The Project To Your Local Machine :
+1. rm -rf Astra ## Deleting Old Repository.
+2. git clone https://github.com/1337Xcode/Astra ## Cloning Astra.
+#. All Together :
+rm -rf Astra && git clone https://github.com/1337Xcode/Astra
+</Step 1>
+
+<Step 2> Running The Project :
+
+*1* PART ONE [ Runing For First Time ]
+
+1. cd Astra ## Opening Directory. 
+2. chmod +x * ## Giving Execute Rights To All Files In Current Directory.
+3. bash Setup.sh ## Running Setup.sh To Install All The Dependencies.
+(3.*)-Note: Give Root Permissions To Termux When Asked.
+4. sudo python3 Astra.py ## Running Astra With Administrative Rights in Python3
+#. All Together :
+cd Astra && chmod +x * && bash Setup.sh && sudo python3 Astra.py
+
+*2* PART TWO [ Runing For Second,Third,..Infinite Time ]
+1. cd Astra ## Opening Directory.
+2. sudo python3 Astra.py ## Running Astra With Administrative Rights in Python3
+#. All Together :
+cd Astra && sudo python3 Astra.py
+</Step 2>
+
+<Step 3> Functions Guide And Description
+
+</Step 3>
+
+Tutorial Video:
